@@ -17,7 +17,7 @@ const streamList = [
     twitch: 'https://www.twitch.tv/xbox',
     youtube: 'https://www.youtube.com/user/xbox/videos',
     time: '10 Июня 23:00',
-    image: 'https://i.imgur.com/2YeWBmJ.png'
+    image: 'https://i.imgur.com/Udn002b.png'
   },
   {
     name: 'Bethesda',
