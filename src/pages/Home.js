@@ -39,6 +39,13 @@ const streamList = [
     image: "https://i.imgur.com/lGYxmFb.png"
   },
   {
+    name: "Ubisoft",
+    twitch: "https://www.twitch.tv/ubisoft",
+    youtube: "https://www.youtube.com/channel/UCBMvc6jvuTxH6TNo9ThpYjg",
+    time: "10 Июня 23:00",
+    image: "https://i.imgur.com/2YeWBmJ.png"
+  },
+  {
     name: "Square Enix",
     twitch: "https://www.twitch.tv/squareenix",
     youtube: "https://www.youtube.com/squareenixpresents",
@@ -48,16 +55,16 @@ const streamList = [
   {
     name: "Nintendo",
     twitch: "https://www.twitch.tv/nintendo",
-    youtube: "https://www.twitch.tv/nintendo",
+    youtube: "https://www.youtube.com/nintendo",
     time: "11 Июня 19:00",
     image: "https://i.imgur.com/RmAYpZh.png"
   },
   {
-    name: "Ubisoft",
-    twitch: "https://www.twitch.tv/ubisoft",
-    youtube: "https://www.youtube.com/channel/UCBMvc6jvuTxH6TNo9ThpYjg",
-    time: "11 Июня 23:00",
-    image: "https://i.imgur.com/2YeWBmJ.png"
+    name: "Konami",
+    twitch: "https://www.twitch.tv/konami",
+    youtube: "https://www.youtube.com/user/konami",
+    time: "12 Июня 02:30",
+    image: "https://pbs.twimg.com/media/CDkUzx-WoAEBYhs.jpg"
   },
   {
     name: "Сони пидорасы",
