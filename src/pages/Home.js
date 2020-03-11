@@ -4,71 +4,8 @@ import { Container, Row, Col, Media, Badge } from "reactstrap";
 
 const streamList = [
   {
-    name: "EA",
-    twitch: "https://www.twitch.tv/ea",
-    youtube: "https://www.youtube.com/watch?v=qw16v3oGXso",
-    time: "8 Июня 19:30",
-    image: "https://i.imgur.com/X62S2PT.png"
-  },
-  {
-    name: "Microsoft",
-    twitch: "https://www.twitch.tv/xbox",
-    youtube: "https://www.youtube.com/user/xbox/videos",
-    time: "9 Июня 23:00",
-    image: "https://i.imgur.com/Udn002b.png"
-  },
-  {
-    name: "Bethesda",
-    twitch: "https://www.twitch.tv/bethesda",
-    youtube: "https://www.youtube.com/bethesda",
-    time: "10 Июня 03:30",
-    image: "https://i.imgur.com/6BoiPER.png"
-  },
-  {
-    name: "Devolver Digital",
-    twitch: "https://www.twitch.tv/devolverdigital",
-    youtube: "https://www.youtube.com/user/DevolverDigital",
-    time: "10 Июня 05:00",
-    image: "https://i.imgur.com/Ae10JBp.png"
-  },
-  {
-    name: "PC Gaming Show",
-    twitch: "https://www.twitch.tv/pcgamer",
-    youtube: "https://www.youtube.com/pcgamer",
-    time: "10 Июня 22:00",
-    image: "https://i.imgur.com/lGYxmFb.png"
-  },
-  {
-    name: "Ubisoft",
-    twitch: "https://www.twitch.tv/ubisoft",
-    youtube: "https://www.youtube.com/channel/UCBMvc6jvuTxH6TNo9ThpYjg",
-    time: "10 Июня 23:00",
-    image: "https://i.imgur.com/2YeWBmJ.png"
-  },
-  {
-    name: "Square Enix",
-    twitch: "https://www.twitch.tv/squareenix",
-    youtube: "https://www.youtube.com/squareenixpresents",
-    time: "11 Июня 04:00",
-    image: "https://i.imgur.com/nqROuDQ.jpg"
-  },
-  {
-    name: "Nintendo",
-    twitch: "https://www.twitch.tv/nintendo",
-    youtube: "https://www.youtube.com/nintendo",
-    time: "11 Июня 19:00",
-    image: "https://i.imgur.com/RmAYpZh.png"
-  },
-  {
-    name: "Konami",
-    twitch: "https://www.twitch.tv/konami",
-    youtube: "https://www.youtube.com/user/konami",
-    time: "12 Июня 02:30",
-    image: "https://pbs.twimg.com/media/CDkUzx-WoAEBYhs.jpg"
-  },
-  {
-    name: "Сони пидорасы",
-    image: "https://up.vidyagam.es/images/logo_smol.png",
+    name: "ВСЕ ОТМЕНИЛИ НАХУЙ",
+    image: "https://pbs.twimg.com/media/ESyy-QpU0AsNibu?format=jpg&name=small",
     pizda: true
   }
 ];
