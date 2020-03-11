@@ -22,14 +22,14 @@ class Home extends Component {
           <img
             width="200"
             height="200"
-            src={"https://i.imgur.com/ruTRMib.png"}
+            src={"https://i.imgur.com/hizREeK.jpg"}
           />
           <h5>
-            <Badge color={"danger"}>E3 still fucking sucks</Badge>
+            <Badge color={"danger"}>НИКАКОГО Е3 НАХУЙ</Badge>
           </h5>
           <audio autoPlay={true}>
             <source
-              src="https://drop3.dropmefiles.com/upl/B/B4COc80wgiHs/BmbnH_o_1dcplae6215091bd411aj1t4214lma"
+              src="https://www.mboxdrive.com/y2mate.com%20-%20Ram%20Ranch%207_2esAob3tEiw.mp3"
               type="audio/mpeg"
             />
           </audio>
